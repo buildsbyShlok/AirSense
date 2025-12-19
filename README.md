@@ -123,7 +123,6 @@ AirSense/
 ---
 
 ## 👤 Author
-**Shlok**  
-Electrical & Electronics Engineering  
+**Shlok**   
 
 > Built with focus on real-time monitoring, reliability, and environmental impact.
